@@ -1,0 +1,27 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "this is my first express project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashika-32/BED-5th-Semester.git"
+  },
+  "keywords": [
+    "[\"my",
+    "project\"",
+    "\"express-project\"]"
+  ],
+  "author": "Yashika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashika-32/BED-5th-Semester/issues"
+  },
+  "homepage": "https://github.com/Yashika-32/BED-5th-Semester#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
