@@ -29,4 +29,4 @@ function adduser(email,password){
         console.error(err);
     });
 }
-adduser("yy@gmail.com", "1234");
+adduser("tanushwisingh27@gmail.com", "1234");
